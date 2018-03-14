@@ -311,7 +311,7 @@ open class LightboxController: UIViewController {
 }
 
 open class Test {
-  open func print(){
+  open func printX(){
     print("YEAHHHH!!!!")
   }
 }
