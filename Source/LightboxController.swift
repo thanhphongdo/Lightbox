@@ -310,6 +310,12 @@ open class LightboxController: UIViewController {
   }
 }
 
+open class Test {
+  open func print(){
+    print("YEAHHHH!!!!")
+  }
+}
+
 // MARK: - UIScrollViewDelegate
 
 extension LightboxController: UIScrollViewDelegate {
